@@ -1,0 +1,135 @@
+body{
+    background-color: #FFFAF6;
+    display: block;
+    position: relative;
+    text-align: center;
+
+}
+h1{ font-size: 5rem;
+    padding-top: 80px;
+    margin: 0;
+
+}
+h2,p{
+    margin:0;
+
+}
+.abel-regular {
+    font-size: 3rem;
+        font-family: "Abel", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+
+    }
+    
+.moon{
+    font-family: "Moon Dance", cursive;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+.girl{
+    position: relative;
+    padding-left: 300px;
+    height: auto;
+}
+
+.top{
+    background-image: url(./Darina’s\ \(600\ x\ 700\ пікс.\).png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;
+    height: 600px;
+    width: 100%;
+}
+.hello{
+    padding-top: 260px;
+    height: 600px;
+    width: 100%;
+}
+.me{
+    border-radius: 50%;
+    padding: 20px;
+}
+.intro,.Now {
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+.Hello {
+font-family: "Moon Dance", cursive;
+font-style: normal;
+font-size: 4rem;
+
+}
+.parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: repeat(4 1fr);
+    gap: 20px;
+    width: 100%;
+    padding-bottom: 60px;
+   
+}
+.story{
+    font-family: "Abel", sans-serif;
+    font-size: large;
+   
+}
+.job{ font-family: "Moon Dance", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+}
+.What{
+padding-bottom: 60px;
+font-family: "Moon Dance", cursive;
+font-style: normal;
+font-size: 4rem;  
+}
+.What2{
+    font-family: "Moon Dance", cursive;
+    font-style: normal;
+    font-size: 4rem;  
+}
+    
+    
+.btn {
+background-color:#21E6B7 ;
+border-radius:  8px;;
+padding: 10px 20px 10px 20px;
+color: white;
+font-size: large;
+font-family: "Abel", sans-serif
+}
+.footer{
+   
+   background-image: url(./Darina’s\ \(600\ x\ 700\ пікс.\).png);
+   background-repeat: no-repeat;
+   background-position:top;
+   display: block;
+    height: 200px;
+    width: 100%;
+    padding-top: 250px;
+}
+a{
+    margin: 10px 20px;
+    color: black;
+    font-size: x-large;
+  
+}
+.copyright{
+    padding: 40px 0;
+    font-family:  "Abel", sans-serif;
+    font-size: 1rem;
+}
+#PS{
+    text-align: right;
+    font-family: "Moon Dance", cursive;
+    font-style: normal;
+    font-size: 2rem;
+    margin: 0 20px;
+}
+
